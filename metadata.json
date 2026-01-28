@@ -1,0 +1,5 @@
+{
+  "name": "Architect-Go: Legacy Refactor Engine",
+  "description": "A BYOD (Bring Your Own Device) ecosystem that converts physical sketches or legacy code into structured backend architecture, strictly typed schemas, and scalable Firebase implementations.",
+  "requestFramePermissions": []
+}
